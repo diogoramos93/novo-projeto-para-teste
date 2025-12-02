@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FaceFind Event Gallery",
+  "description": "A client-side event gallery with facial recognition search using face-api.js. No backend required.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
